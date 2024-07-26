@@ -1,2 +1,2 @@
 # C-codes
-My C projects record
+Testing C codes simply
